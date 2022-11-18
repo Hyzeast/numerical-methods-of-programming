@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 def f(x):
 
-return 3x**4 - 4x**3 - x2
+return 3*x**4 - 4*x**3 - x*2
 
 a = 1.
 
